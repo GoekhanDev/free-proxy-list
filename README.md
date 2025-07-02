@@ -20,6 +20,6 @@ Use at your own risk. This repository offers publicly available proxy servers fr
 
 ___
 
-## 📄 License
+## License
 
 This project is licensed under the [MIT License](https://github.com/GoekhanDev/free-proxy-list/blob/main/LICENSE)
