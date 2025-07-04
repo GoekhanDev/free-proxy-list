@@ -1,4 +1,9 @@
+<p align="center"><strong><span style="opacity:0.5">⭐️ If you find this proxy list useful, please consider leaving a star to keep it alive!</span></strong></p>
+
+___
+
 <h1 align="center">Free Proxy List</h1>
+
 
 <p align="center"><strong>Focused on Public Proxies — SOCKS4, SOCKS5, HTTP</strong></p>
 
@@ -18,7 +23,6 @@ This repository provides a collection of publicly available proxy servers source
 Use at your own risk. This repository offers publicly available proxy servers from community and public sources. The maintainers are not liable for any damages, legal issues, or losses resulting from their use. All proxies are provided "as-is" without guarantees of functionality, uptime, security, or anonymity. Users are solely responsible for ensuring legal and compliant use according to local laws and terms of service. Use responsibly.
 **Use responsibly and at your own discretion.**
 
-___
 
 ## License
 
