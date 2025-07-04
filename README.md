@@ -55,4 +55,4 @@ The files are structured for compatibility with scripts, tools, and automation w
 
 This project is licensed under the [MIT License](https://github.com/GoekhanDev/free-proxy-list/blob/main/LICENSE).
 
-This project is licensed under the [MIT License](https://github.com/GoekhanDev/free-proxy-list/blob/main/LICENSE).
+
