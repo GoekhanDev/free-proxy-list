@@ -1,11 +1,10 @@
-<p align="center"><strong><span style="opacity:0.5">⭐️ If you find this proxy list useful, please consider leaving a star to keep it alive!</span></strong></p>
+<p align="center"><strong><span style="opacity:0.5">⭐️ If you find this proxy list useful, please consider leaving a star to keep it alive.</span></strong></p>
 
 ___
 
 <h1 align="center">Free Proxy List</h1>
 
-
-<p align="center"><strong>Focused on Public Proxies — SOCKS4, SOCKS5, HTTP</strong></p>
+<p align="center"><strong>Public proxies – SOCKS4, SOCKS5, HTTP</strong></p>
 
 <p align="center">
  <img src="https://img.shields.io/badge/license-MIT-green" />
@@ -16,14 +15,44 @@ ___
 
 ___
 
-##  Disclaimer
+## Disclaimer
 
-This repository provides a collection of publicly available proxy servers sourced from various public endpoints and community contributions. By using this service, you acknowledge and agree that:
+This project collects and shares proxies that are publicly available across the internet. The proxies are provided *as-is*, without any guarantees regarding availability, speed, or anonymity. By using this project, you agree to the following:
 
-Use at your own risk. This repository offers publicly available proxy servers from community and public sources. The maintainers are not liable for any damages, legal issues, or losses resulting from their use. All proxies are provided "as-is" without guarantees of functionality, uptime, security, or anonymity. Users are solely responsible for ensuring legal and compliant use according to local laws and terms of service. Use responsibly.
-**Use responsibly and at your own discretion.**
+- You use this resource at your own risk.
+- The maintainers are not responsible for any damage, abuse, or legal issues arising from the use of these proxies.
+- You are responsible for ensuring that your usage complies with all local laws and the terms of service of any platforms you interact with.
+
+**Use responsibly.**
+
+## Overview
+
+This repository provides a regularly updated list of free public proxy servers. It includes:
+
+- HTTP proxies
+- SOCKS4 proxies
+- SOCKS5 proxies
+
+All proxies are sourced from publicly available endpoints. The lists are designed for developers, researchers, and testers who require bulk proxy access for:
+
+- Web scraping
+- Load testing
+- Penetration testing (in legal/authorized environments)
+- Privacy or network routing experiments
+
+## Available Formats
+
+Each proxy list is provided in multiple formats for easy integration:
+
+- `JSON`
+- `CSV`
+- `TXT`
+
+The files are structured for compatibility with scripts, tools, and automation workflows.
 
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/GoekhanDev/free-proxy-list/blob/main/LICENSE)
+This project is licensed under the [MIT License](https://github.com/GoekhanDev/free-proxy-list/blob/main/LICENSE).
+
+This project is licensed under the [MIT License](https://github.com/GoekhanDev/free-proxy-list/blob/main/LICENSE).
