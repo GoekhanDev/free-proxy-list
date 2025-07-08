@@ -1,44 +1,56 @@
 {
-  "timestamp": 1751966993,
+  "timestamp": 1751967154,
   "proxy_types": [
     {
       "type": "HTTP",
       "total": 39168,
-      "working": 192,
-      "success_rate": 0.49019607843137253,
-      "avg_latency_ms": 4866.625,
-      "countries": 46,
+      "working": 196,
+      "success_rate": 0.5004084967320261,
+      "avg_latency_ms": 6379.464285714285,
+      "countries": 47,
       "country_stats": [
         {
           "code": "VN",
-          "count": 25
-        },
-        {
-          "code": "US",
           "count": 23
         },
         {
-          "code": "CN",
-          "count": 14
+          "code": "US",
+          "count": 18
         },
         {
           "code": "ID",
-          "count": 11
+          "count": 18
         },
         {
           "code": "DE",
-          "count": 9
+          "count": 13
         },
         {
-          "code": "MY",
-          "count": 7
+          "code": "CN",
+          "count": 12
+        },
+        {
+          "code": "IN",
+          "count": 10
         },
         {
           "code": "BR",
           "count": 7
         },
         {
+          "code": "JP",
+          "count": 6
+        },
+        {
+          "code": "TH",
+          "count": 6
+        },
+        {
           "code": "AR",
+          "count": 6
+        },
+        {
+          "code": "CO",
           "count": 6
         },
         {
@@ -46,59 +58,15 @@
           "count": 6
         },
         {
-          "code": "JP",
-          "count": 6
+          "code": "SG",
+          "count": 5
         },
         {
           "code": "NL",
-          "count": 5
+          "count": 4
         },
         {
           "code": "GB",
-          "count": 5
-        },
-        {
-          "code": "IR",
-          "count": 4
-        },
-        {
-          "code": "AU",
-          "count": 4
-        },
-        {
-          "code": "IN",
-          "count": 4
-        },
-        {
-          "code": "SG",
-          "count": 4
-        },
-        {
-          "code": "BG",
-          "count": 3
-        },
-        {
-          "code": "TH",
-          "count": 3
-        },
-        {
-          "code": "ZA",
-          "count": 3
-        },
-        {
-          "code": "PH",
-          "count": 3
-        },
-        {
-          "code": "HK",
-          "count": 3
-        },
-        {
-          "code": "RU",
-          "count": 3
-        },
-        {
-          "code": "CA",
           "count": 3
         },
         {
@@ -106,19 +74,35 @@
           "count": 3
         },
         {
-          "code": "SE",
-          "count": 2
-        },
-        {
-          "code": "CL",
-          "count": 2
+          "code": "AE",
+          "count": 3
         },
         {
           "code": "MX",
+          "count": 3
+        },
+        {
+          "code": "FR",
+          "count": 3
+        },
+        {
+          "code": "ZA",
+          "count": 3
+        },
+        {
+          "code": "IR",
+          "count": 3
+        },
+        {
+          "code": "AU",
           "count": 2
         },
         {
-          "code": "AE",
+          "code": "HK",
+          "count": 2
+        },
+        {
+          "code": "SE",
           "count": 2
         },
         {
@@ -126,43 +110,43 @@
           "count": 2
         },
         {
+          "code": "RU",
+          "count": 2
+        },
+        {
+          "code": "CH",
+          "count": 2
+        },
+        {
+          "code": "CA",
+          "count": 2
+        },
+        {
+          "code": "PH",
+          "count": 2
+        },
+        {
           "code": "TR",
           "count": 2
         },
         {
-          "code": "CO",
+          "code": "MY",
           "count": 1
         },
         {
-          "code": "KZ",
+          "code": "SY",
           "count": 1
         },
         {
-          "code": "EG",
+          "code": "LK",
           "count": 1
         },
         {
-          "code": "KH",
+          "code": "CL",
           "count": 1
         },
         {
-          "code": "VE",
-          "count": 1
-        },
-        {
-          "code": "MM",
-          "count": 1
-        },
-        {
-          "code": "CH",
-          "count": 1
-        },
-        {
-          "code": "GH",
-          "count": 1
-        },
-        {
-          "code": "FR",
+          "code": "PR",
           "count": 1
         },
         {
@@ -170,23 +154,43 @@
           "count": 1
         },
         {
-          "code": "DO",
-          "count": 1
-        },
-        {
-          "code": "UZ",
-          "count": 1
-        },
-        {
           "code": "AT",
           "count": 1
         },
         {
-          "code": "TW",
+          "code": "KZ",
           "count": 1
         },
         {
-          "code": "IT",
+          "code": "GH",
+          "count": 1
+        },
+        {
+          "code": "KH",
+          "count": 1
+        },
+        {
+          "code": "BD",
+          "count": 1
+        },
+        {
+          "code": "IE",
+          "count": 1
+        },
+        {
+          "code": "EC",
+          "count": 1
+        },
+        {
+          "code": "EG",
+          "count": 1
+        },
+        {
+          "code": "DO",
+          "count": 1
+        },
+        {
+          "code": "VE",
           "count": 1
         },
         {
@@ -198,33 +202,37 @@
     {
       "type": "SOCKS4",
       "total": 2850,
-      "working": 270,
-      "success_rate": 9.473684210526317,
-      "avg_latency_ms": 3156.1444444444446,
-      "countries": 48,
+      "working": 294,
+      "success_rate": 10.31578947368421,
+      "avg_latency_ms": 3745.887755102041,
+      "countries": 57,
       "country_stats": [
         {
           "code": "US",
-          "count": 123
+          "count": 129
         },
         {
           "code": "FR",
-          "count": 21
-        },
-        {
-          "code": "CA",
-          "count": 13
-        },
-        {
-          "code": "IN",
-          "count": 13
+          "count": 20
         },
         {
           "code": "ID",
           "count": 11
         },
         {
-          "code": "GB",
+          "code": "CA",
+          "count": 10
+        },
+        {
+          "code": "BR",
+          "count": 8
+        },
+        {
+          "code": "RU",
+          "count": 8
+        },
+        {
+          "code": "IN",
           "count": 7
         },
         {
@@ -232,27 +240,19 @@
           "count": 6
         },
         {
-          "code": "VN",
-          "count": 6
-        },
-        {
-          "code": "BR",
+          "code": "KR",
           "count": 5
         },
         {
-          "code": "RU",
+          "code": "BD",
+          "count": 5
+        },
+        {
+          "code": "VN",
           "count": 4
         },
         {
-          "code": "UA",
-          "count": 4
-        },
-        {
-          "code": "TR",
-          "count": 4
-        },
-        {
-          "code": "CN",
+          "code": "MY",
           "count": 4
         },
         {
@@ -260,11 +260,15 @@
           "count": 4
         },
         {
-          "code": "KR",
-          "count": 3
+          "code": "CN",
+          "count": 4
         },
         {
-          "code": "MY",
+          "code": "AL",
+          "count": 4
+        },
+        {
+          "code": "CO",
           "count": 3
         },
         {
@@ -272,7 +276,23 @@
           "count": 3
         },
         {
-          "code": "NL",
+          "code": "GB",
+          "count": 3
+        },
+        {
+          "code": "AR",
+          "count": 3
+        },
+        {
+          "code": "DE",
+          "count": 3
+        },
+        {
+          "code": "ES",
+          "count": 2
+        },
+        {
+          "code": "PK",
           "count": 2
         },
         {
@@ -280,67 +300,55 @@
           "count": 2
         },
         {
-          "code": "NG",
+          "code": "TR",
           "count": 2
         },
         {
-          "code": "CZ",
+          "code": "CL",
           "count": 2
         },
         {
-          "code": "AL",
+          "code": "RO",
           "count": 2
         },
         {
-          "code": "IQ",
-          "count": 1
+          "code": "BE",
+          "count": 2
         },
         {
-          "code": "JP",
-          "count": 1
+          "code": "IT",
+          "count": 2
         },
         {
-          "code": "CO",
-          "count": 1
-        },
-        {
-          "code": "ZA",
-          "count": 1
+          "code": "UA",
+          "count": 2
         },
         {
           "code": "BG",
+          "count": 2
+        },
+        {
+          "code": "NL",
+          "count": 2
+        },
+        {
+          "code": "JP",
+          "count": 2
+        },
+        {
+          "code": "VE",
+          "count": 2
+        },
+        {
+          "code": "AU",
           "count": 1
         },
         {
-          "code": "PH",
+          "code": "CZ",
           "count": 1
         },
         {
-          "code": "LK",
-          "count": 1
-        },
-        {
-          "code": "PE",
-          "count": 1
-        },
-        {
-          "code": "UG",
-          "count": 1
-        },
-        {
-          "code": "HR",
-          "count": 1
-        },
-        {
-          "code": "ES",
-          "count": 1
-        },
-        {
-          "code": "KE",
-          "count": 1
-        },
-        {
-          "code": "BO",
+          "code": "GT",
           "count": 1
         },
         {
@@ -348,7 +356,47 @@
           "count": 1
         },
         {
+          "code": "NP",
+          "count": 1
+        },
+        {
+          "code": "LT",
+          "count": 1
+        },
+        {
+          "code": "MT",
+          "count": 1
+        },
+        {
+          "code": "HU",
+          "count": 1
+        },
+        {
+          "code": "HR",
+          "count": 1
+        },
+        {
+          "code": "SE",
+          "count": 1
+        },
+        {
+          "code": "BW",
+          "count": 1
+        },
+        {
+          "code": "HK",
+          "count": 1
+        },
+        {
           "code": "XK",
+          "count": 1
+        },
+        {
+          "code": "ZW",
+          "count": 1
+        },
+        {
+          "code": "SK",
           "count": 1
         },
         {
@@ -356,43 +404,35 @@
           "count": 1
         },
         {
-          "code": "AU",
+          "code": "BO",
           "count": 1
         },
         {
-          "code": "DE",
+          "code": "ZA",
           "count": 1
         },
         {
-          "code": "PS",
+          "code": "CM",
           "count": 1
         },
         {
-          "code": "RO",
+          "code": "UG",
           "count": 1
         },
         {
-          "code": "AT",
+          "code": "PH",
           "count": 1
         },
         {
-          "code": "NP",
+          "code": "KH",
           "count": 1
         },
         {
-          "code": "IT",
+          "code": "BA",
           "count": 1
         },
         {
-          "code": "AR",
-          "count": 1
-        },
-        {
-          "code": "HK",
-          "count": 1
-        },
-        {
-          "code": "LT",
+          "code": "IQ",
           "count": 1
         }
       ]
@@ -400,58 +440,54 @@
     {
       "type": "SOCKS5",
       "total": 2058,
-      "working": 187,
-      "success_rate": 9.086491739552963,
-      "avg_latency_ms": 2627.604278074866,
-      "countries": 30,
+      "working": 174,
+      "success_rate": 8.454810495626822,
+      "avg_latency_ms": 2781.1609195402298,
+      "countries": 26,
       "country_stats": [
         {
           "code": "US",
-          "count": 92
+          "count": 89
         },
         {
           "code": "FR",
-          "count": 13
+          "count": 12
         },
         {
           "code": "RU",
-          "count": 9
+          "count": 10
         },
         {
           "code": "CA",
           "count": 9
         },
         {
-          "code": "KR",
-          "count": 8
-        },
-        {
-          "code": "SG",
-          "count": 6
-        },
-        {
-          "code": "IN",
+          "code": "BD",
           "count": 6
         },
         {
           "code": "DE",
-          "count": 6
+          "count": 5
         },
         {
           "code": "ID",
           "count": 5
         },
         {
-          "code": "HK",
+          "code": "KR",
+          "count": 5
+        },
+        {
+          "code": "SG",
+          "count": 5
+        },
+        {
+          "code": "IN",
           "count": 4
         },
         {
-          "code": "NL",
-          "count": 3
-        },
-        {
-          "code": "BD",
-          "count": 3
+          "code": "HK",
+          "count": 4
         },
         {
           "code": "MY",
@@ -462,23 +498,15 @@
           "count": 2
         },
         {
-          "code": "JP",
-          "count": 2
-        },
-        {
           "code": "IR",
           "count": 2
         },
         {
           "code": "ZA",
-          "count": 1
+          "count": 2
         },
         {
-          "code": "UA",
-          "count": 1
-        },
-        {
-          "code": "CN",
+          "code": "KH",
           "count": 1
         },
         {
@@ -486,31 +514,11 @@
           "count": 1
         },
         {
-          "code": "BR",
+          "code": "CN",
           "count": 1
         },
         {
-          "code": "ES",
-          "count": 1
-        },
-        {
-          "code": "KH",
-          "count": 1
-        },
-        {
-          "code": "AR",
-          "count": 1
-        },
-        {
-          "code": "PS",
-          "count": 1
-        },
-        {
-          "code": "BG",
-          "count": 1
-        },
-        {
-          "code": "LT",
+          "code": "TH",
           "count": 1
         },
         {
@@ -522,88 +530,108 @@
           "count": 1
         },
         {
+          "code": "NL",
+          "count": 1
+        },
+        {
+          "code": "UA",
+          "count": 1
+        },
+        {
+          "code": "ES",
+          "count": 1
+        },
+        {
           "code": "IT",
+          "count": 1
+        },
+        {
+          "code": "JP",
           "count": 1
         }
       ]
     }
   ],
   "total_processed": 44076,
-  "total_working": 649,
-  "overall_success_rate": 1.4724566657591431,
-  "overall_avg_latency_ms": 3509.8813559322034,
-  "total_countries": 65,
+  "total_working": 664,
+  "overall_success_rate": 1.5064887920863963,
+  "overall_avg_latency_ms": 4270.463855421687,
+  "total_countries": 72,
   "total_country_stats": [
     {
       "code": "US",
-      "count": 238
+      "count": 236
     },
     {
       "code": "FR",
       "count": 35
     },
     {
-      "code": "VN",
-      "count": 32
-    },
-    {
       "code": "ID",
-      "count": 27
+      "count": 34
     },
     {
-      "code": "CA",
-      "count": 25
+      "code": "VN",
+      "count": 28
+    },
+    {
+      "code": "DE",
+      "count": 21
     },
     {
       "code": "IN",
-      "count": 23
+      "count": 21
+    },
+    {
+      "code": "CA",
+      "count": 21
+    },
+    {
+      "code": "RU",
+      "count": 20
     },
     {
       "code": "CN",
-      "count": 19
+      "count": 17
     },
     {
       "code": "SG",
       "count": 16
     },
     {
-      "code": "RU",
-      "count": 16
-    },
-    {
-      "code": "DE",
-      "count": 16
+      "code": "BR",
+      "count": 15
     },
     {
       "code": "KR",
-      "count": 14
-    },
-    {
-      "code": "GB",
-      "count": 14
-    },
-    {
-      "code": "BR",
       "count": 13
     },
     {
-      "code": "MY",
-      "count": 13
+      "code": "BD",
+      "count": 12
     },
     {
-      "code": "NL",
-      "count": 10
+      "code": "TH",
+      "count": 11
+    },
+    {
+      "code": "AR",
+      "count": 9
+    },
+    {
+      "code": "CO",
+      "count": 9
     },
     {
       "code": "JP",
       "count": 9
     },
     {
-      "code": "AR",
+      "code": "MY",
       "count": 8
     },
     {
-      "code": "HK",
+      "code": "GB",
       "count": 8
     },
     {
@@ -611,103 +639,87 @@
       "count": 7
     },
     {
-      "code": "IR",
+      "code": "NL",
       "count": 7
     },
     {
-      "code": "TH",
+      "code": "HK",
       "count": 7
-    },
-    {
-      "code": "AU",
-      "count": 6
-    },
-    {
-      "code": "TR",
-      "count": 6
-    },
-    {
-      "code": "BG",
-      "count": 5
-    },
-    {
-      "code": "UA",
-      "count": 5
     },
     {
       "code": "ZA",
-      "count": 5
+      "count": 6
     },
     {
       "code": "MX",
-      "count": 5
+      "count": 6
+    },
+    {
+      "code": "IR",
+      "count": 6
+    },
+    {
+      "code": "AL",
+      "count": 4
+    },
+    {
+      "code": "AU",
+      "count": 4
+    },
+    {
+      "code": "TR",
+      "count": 4
+    },
+    {
+      "code": "AE",
+      "count": 3
     },
     {
       "code": "PH",
-      "count": 4
+      "count": 3
+    },
+    {
+      "code": "VE",
+      "count": 3
+    },
+    {
+      "code": "SE",
+      "count": 3
+    },
+    {
+      "code": "CL",
+      "count": 3
     },
     {
       "code": "IT",
       "count": 3
     },
     {
-      "code": "BD",
+      "code": "UA",
       "count": 3
     },
     {
-      "code": "AL",
-      "count": 2
-    },
-    {
-      "code": "AT",
-      "count": 2
-    },
-    {
-      "code": "CO",
-      "count": 2
-    },
-    {
-      "code": "NG",
-      "count": 2
-    },
-    {
       "code": "KH",
-      "count": 2
-    },
-    {
-      "code": "LT",
-      "count": 2
-    },
-    {
-      "code": "PL",
-      "count": 2
-    },
-    {
-      "code": "AE",
-      "count": 2
-    },
-    {
-      "code": "SE",
-      "count": 2
+      "count": 3
     },
     {
       "code": "ES",
-      "count": 2
-    },
-    {
-      "code": "PS",
-      "count": 2
-    },
-    {
-      "code": "CL",
-      "count": 2
-    },
-    {
-      "code": "CZ",
-      "count": 2
+      "count": 3
     },
     {
       "code": "BH",
+      "count": 2
+    },
+    {
+      "code": "CH",
+      "count": 2
+    },
+    {
+      "code": "BG",
+      "count": 2
+    },
+    {
+      "code": "PK",
       "count": 2
     },
     {
@@ -715,43 +727,19 @@
       "count": 2
     },
     {
-      "code": "GH",
-      "count": 1
-    },
-    {
-      "code": "UG",
-      "count": 1
-    },
-    {
-      "code": "BO",
-      "count": 1
-    },
-    {
-      "code": "GE",
-      "count": 1
-    },
-    {
-      "code": "MM",
-      "count": 1
+      "code": "PL",
+      "count": 2
     },
     {
       "code": "RO",
-      "count": 1
+      "count": 2
     },
     {
-      "code": "LK",
-      "count": 1
+      "code": "BE",
+      "count": 2
     },
     {
-      "code": "CH",
-      "count": 1
-    },
-    {
-      "code": "HR",
-      "count": 1
-    },
-    {
-      "code": "KE",
+      "code": "EC",
       "count": 1
     },
     {
@@ -763,27 +751,15 @@
       "count": 1
     },
     {
-      "code": "TW",
+      "code": "GE",
       "count": 1
     },
     {
-      "code": "EG",
+      "code": "IE",
       "count": 1
     },
     {
-      "code": "LU",
-      "count": 1
-    },
-    {
-      "code": "VE",
-      "count": 1
-    },
-    {
-      "code": "KZ",
-      "count": 1
-    },
-    {
-      "code": "PE",
+      "code": "GT",
       "count": 1
     },
     {
@@ -791,7 +767,83 @@
       "count": 1
     },
     {
-      "code": "UZ",
+      "code": "UG",
+      "count": 1
+    },
+    {
+      "code": "AT",
+      "count": 1
+    },
+    {
+      "code": "PR",
+      "count": 1
+    },
+    {
+      "code": "CM",
+      "count": 1
+    },
+    {
+      "code": "HU",
+      "count": 1
+    },
+    {
+      "code": "SY",
+      "count": 1
+    },
+    {
+      "code": "KZ",
+      "count": 1
+    },
+    {
+      "code": "MT",
+      "count": 1
+    },
+    {
+      "code": "BA",
+      "count": 1
+    },
+    {
+      "code": "HR",
+      "count": 1
+    },
+    {
+      "code": "SK",
+      "count": 1
+    },
+    {
+      "code": "CZ",
+      "count": 1
+    },
+    {
+      "code": "EG",
+      "count": 1
+    },
+    {
+      "code": "LT",
+      "count": 1
+    },
+    {
+      "code": "ZW",
+      "count": 1
+    },
+    {
+      "code": "LU",
+      "count": 1
+    },
+    {
+      "code": "BW",
+      "count": 1
+    },
+    {
+      "code": "LK",
+      "count": 1
+    },
+    {
+      "code": "GH",
+      "count": 1
+    },
+    {
+      "code": "BO",
       "count": 1
     }
   ]
